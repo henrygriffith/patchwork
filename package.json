@@ -15,7 +15,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "redux": "^4.0.5",
-    "sequelize": "^6.3.4"
+    "sequelize": "^6.37.7"
   },
   "scripts": {
     "start": "react-scripts start",
